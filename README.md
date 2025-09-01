@@ -62,6 +62,3 @@ pip install numpy pandas matplotlib scipy
 - [Astropy Constants Documentation](https://docs.astropy.org/en/stable/constants/)  
 - [Scipy `curve_fit`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)  
 ---
----
-
-Do you want me to make this README in **Markdown (`README.md`)** so you can just drop it in your project folder, or embed it as a **final markdown cell** at the end of your notebook?
